@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+
+# raw Kaggle downloads are not redistributed (see data/README.md)
+raw/
+*.zip
+!data/*.zip
+
+# local scratch
+tmp/
+work/
+*.log

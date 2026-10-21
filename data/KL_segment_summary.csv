@@ -1,0 +1,29 @@
+segment_dimension,segment_value,n,adr_usd_median,adr_myr_median,occupancy_median,revenue_usd_median,revpar_usd_median,rating_median
+host portfolio band,casual (1),158,43.85,189.0,0.202,3375.0,8.9,4.8
+host portfolio band,small (2),52,47.3,203.55,0.17,3346.0,8.45,4.745
+host portfolio band,mid (3-4),35,43.5,187.2,0.2,2628.0,6.6,4.73
+host portfolio band,professional (5+),53,57.5,247.4,0.192,3274.0,8.7,4.71
+room type,entire_home,254,49.25,212.0,0.204,4137.5,11.1,4.745
+room type,hotel_room,12,63.7,274.8,0.089,1814.5,4.85,4.67
+room type,private_room,32,21.45,92.3,0.176,1395.0,3.75,4.85
+listing type,Entire bungalow,2,288.15,1241.2,0.048,5072.0,13.25,4.9
+listing type,Entire condo,100,45.4,195.6,0.218,4436.0,11.75,4.79
+listing type,Entire guesthouse,1,59.6,256.8,0.036,796.0,2.1,4.73
+listing type,Entire home,5,125.0,538.8,0.219,5339.0,13.9,4.76
+listing type,Entire loft,6,35.1,151.15,0.284,4768.0,12.25,4.735
+listing type,Entire place,1,59.4,255.9,0.033,709.0,1.9,
+listing type,Entire rental unit,97,46.0,197.9,0.189,3549.0,9.3,4.73
+listing type,Entire serviced apartment,37,60.1,259.2,0.159,3069.0,7.5,4.68
+listing type,Entire townhouse,4,181.0,779.85,0.406,18717.5,50.35,4.93
+listing type,Entire villa,1,938.4,4042.7,0.247,84500.0,231.5,4.8
+listing type,Private room in bungalow,1,21.7,93.4,0.326,2592.0,7.1,4.9
+listing type,Private room in condo,16,16.25,70.0,0.192,1481.5,4.0,4.85
+listing type,Private room in home,6,23.3,100.35,0.094,1156.0,3.15,4.86
+listing type,Private room in loft,1,17.1,73.6,0.597,3578.0,9.8,5.0
+listing type,Private room in rental unit,6,24.35,104.7,0.181,1435.5,3.9,4.785
+listing type,Private room in townhouse,1,15.4,66.2,0.748,4177.0,11.4,4.91
+listing type,Room in boutique hotel,1,21.2,91.2,0.03,232.0,0.6,4.33
+listing type,Room in hotel,1,14.9,64.2,0.036,183.0,0.5,4.12
+listing type,Room in serviced apartment,11,64.1,276.7,0.09,2116.0,5.7,4.69
+superhost,false,173,44.4,190.8,0.137,2575.0,6.5,4.7
+superhost,true,125,45.8,197.1,0.238,4639.0,12.5,4.83

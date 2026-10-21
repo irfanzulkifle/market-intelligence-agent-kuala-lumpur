@@ -1,0 +1,6 @@
+,ttm_avg_rate,ttm_occupancy,ttm_revenue,num_reviews,rating_overall
+ttm_avg_rate,1.0,-0.0115,0.6296,-0.0319,-0.0309
+ttm_occupancy,-0.0115,1.0,0.5341,0.3409,0.2478
+ttm_revenue,0.6296,0.5341,1.0,0.2151,0.1344
+num_reviews,-0.0319,0.3409,0.2151,1.0,0.1317
+rating_overall,-0.0309,0.2478,0.1344,0.1317,1.0

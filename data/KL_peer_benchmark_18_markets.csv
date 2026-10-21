@@ -1,0 +1,19 @@
+country,city,listings_in_sample,adr_usd_median,occupancy_median,revenue_usd_median,revpar_usd_median,rating_median
+Singapore,Singapore,296,128.3,0.093,4651.5,12.0,4.71
+Japan,Tokyo,300,103.4,0.57,19035.0,50.7,4.82
+Indonesia,Denpasar,248,90.4,0.304,6962.0,19.05,4.8
+Malaysia,Malacca City,301,76.0,0.112,3638.5,9.8,4.79
+Taiwan,Taipei,301,68.6,0.285,7665.0,20.3,4.77
+Malaysia,George Town,302,63.9,0.214,5231.0,13.7,4.75
+South Korea,Seoul,301,56.8,0.359,6755.0,18.1,4.8
+Malaysia,Johor Bahru,300,55.3,0.151,3265.5,8.5,4.75
+Malaysia,Iskandar Puteri,300,53.8,0.173,3564.0,9.2,4.74
+Malaysia,Kuala Lumpur,303,45.15,0.192,3230.5,8.65,4.76
+Thailand,Pattaya City,300,41.95,0.219,3554.5,9.4,4.755
+Thailand,Bangkok,300,38.0,0.25,3829.5,10.05,4.76
+Thailand,Chiang Mai,300,37.85,0.247,3095.0,8.45,4.84
+Malaysia,Petaling Jaya,300,36.8,0.203,2879.0,7.7,4.79
+Philippines,Cebu City,300,30.65,0.205,2375.0,6.1,4.77
+Philippines,Quezon City,301,30.1,0.167,2063.0,5.5,4.79
+Vietnam,Ho Chi Minh City,300,28.7,0.173,1972.0,5.3,4.83
+Vietnam,Hà Nội,300,26.4,0.202,2175.5,5.9,4.79
